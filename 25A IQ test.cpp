@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int n;
+    //hi this is umakanth
     cin>>n;
     int a[n];
     int ev=0,od=0;
