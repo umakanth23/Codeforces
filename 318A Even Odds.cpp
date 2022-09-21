@@ -5,6 +5,7 @@ int main()
 {
         long long int n,m;
         cin>>n>>m;
+        char ch;
         if(n%2==0)
         {   long long int x=n/2;
             if(m<=x)
